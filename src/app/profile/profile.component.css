@@ -1,0 +1,14 @@
+*{
+  flex-wrap: nowrap;
+  margin:0%;
+  padding: 8px;
+}
+
+
+.panel{
+  background-color: chocolate;
+
+}
+.card{
+  color: white;
+}
