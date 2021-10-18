@@ -6,7 +6,7 @@ import { FormsModule } from '@angular/forms';
 
 
 
-import{ProfileService} from './profile.service';
+import {ProfileService} from './profile.service';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
