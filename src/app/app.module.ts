@@ -21,7 +21,7 @@ import { DateCountPipe } from './date-count.pipe';
     ProfileComponent,
     SearchComponent,
     DateCountPipe,
-   
+
   ],
   imports: [
     BrowserModule,
