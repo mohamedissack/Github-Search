@@ -17,11 +17,15 @@ constructor(private http: HttpClient) {
  }
 // tslint:disable-next-line:use-lifecycle-interface
 // tslint:disable-next-line:contextual-lifecycle
+// tslint:disable-next-line:use-lifecycle-interface
+// tslint:disable-next-line:contextual-lifecycle
 ngOnInit(): void {
   throw new Error('Method not implemented.');
 }
 
+ // tslint:disable-next-line:typedef
  getProfileInfo(username){
+  // tslint:disable-next-line:class-name
   interface apiUrl {
     login: string;
     avatar_url: string;
